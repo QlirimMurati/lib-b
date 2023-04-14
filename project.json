@@ -1,7 +1,7 @@
 {
   "name": "lib-b",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "libs/lib-b/src",
+  "sourceRoot": "libs/lib-b",
   "prefix": "test-app",
   "tags": [],
   "projectType": "library",
