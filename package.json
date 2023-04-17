@@ -7,6 +7,8 @@
     "@testpolymon/lib-a": "^0.0.1"
   },
   "devDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0",
     "@testpolymon/lib-a": "^0.0.1"
   },
   "dependencies": {
